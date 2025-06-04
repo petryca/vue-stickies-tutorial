@@ -744,7 +744,7 @@ Vue.createApp({
 
 ---
 
-## Part 10: Final Challenges
+## Part 10: Final Challenges (Optional bonus points if you build at least one of those)
 
 ### 🎯 **Beginner Challenges:**
 1. **Note Counter**: Add a data property `noteCount` that shows how many notes you have. Display it in the HTML.
