@@ -174,7 +174,7 @@ Create a new file called `answers.md` and answer the following questions based o
 
 58. **What's a potential security concern with using `v-html` instead of `v-model` for the notes? (Research if needed)**
 
-59. **How would you modify the grid to always show the "Add" button in the first position?**
+59. **How would you modify the code to always show the "Add" button in the last position?**
 
 60. **Design a data structure for adding tags to each note. What would the modified `stickies` array look like?**
 
